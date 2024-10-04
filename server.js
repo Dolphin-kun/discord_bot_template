@@ -23,3 +23,5 @@ app.listen(3000, () => {
   if (process.env.TOKEN == undefined || process.env.TOKEN == "") {
     console.log("TOKENを設定してください");
   }
+
+  require('./main.js')
