@@ -1,2 +1,2 @@
-# zattaBot
-discord 雑多Bot
+# Discord Bot
+discord Botのテンプレです
