@@ -1,5 +1,5 @@
 {
-  "name": "zatta-bot",
+  "name": "discord-bot-template",
   "scripts": {
     "start": "node server.js"
   },
