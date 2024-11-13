@@ -15,10 +15,10 @@ TOKEN=
 ```
 
 ``config.json``
-```
+```json
 {
-  clientId: "",
-  guildId: ""
+  "clientId": "",
+  "guildId": ""
 }
 ```
 
